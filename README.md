@@ -34,23 +34,12 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/IgfjcaGBMNXG1bHp3sFIOE)
-
+- [WHATSAPP](https://wa.me/60102810046)
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
 - [VHTEAR](https://api.vhtear.com)
 - [MELODICXT](http://api-melodicxt-2.herokuapp.com/)
 - [TOBZAPI](https://tobz-api.herokuapp.com)
-
-Apikey Location
-- [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
-
-## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
 
 ## Getting Started
 
@@ -105,10 +94,6 @@ for pm2 :
 ```
 
 after running it you need to scan the qr
-
-### License
-
-- [Apache License 2.0](https://github.com/TobyG74/ElainaBOT/blob/main/LICENSE)
 
 ---
 ## 120+ Feature
@@ -249,23 +234,3 @@ after running it you need to scan the qr
 |       ✅        |   Join Group                    |
 
 ---
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-
-## 🙏 Big Special Thanks To
-
-* [`MHRTZ`](https://github.com/MRHRTZ) 
-* [`OpenWA/WA-Automate`](https://github.com/open-wa/wa-automate-nodejs) 
-* [`YogaSakti`](https://github.com/YogaSakti/imageToSticker) 
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot) 
-* [`ItzNgga`](https://github.com/ItzNgga/wa-bot.js) 
-* [`Gimenz`](https://github.com/Gimenz) 
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot) 
-

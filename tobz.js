@@ -356,7 +356,7 @@ module.exports = tobz = async (tobz, message) => {
 		'🍊 : 🍒 : 🍐',
 		'🍒 : 🔔 : 🍊',
 		'🍇 : 🍒 : 🍐',
-		'🍊 : 🍋 : 🔔',//by Fadhlur Owner of NotBot
+		'🍊 : 🍋 : 🔔',//by Aiman Owner of NotBot
 		'🔔 : 🍒 : 🍐',
 		'🔔 : 🍒 : 🍊',
                 '🍊 : 🍋 : 🔔',		

@@ -102,6 +102,12 @@ for pm2 :
 after running it you need to scan the qr
 
 ---
+
+<h3 align="left">My Repo</h3>
+<p align="left">
+  <a href="https://github.com/ai-man-123/elaina-bot1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ai-man-123&repo=elaina-bot1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+</p>
+
 ## 120+ Feature
 
 | Sticker Creator |              Feature            |
